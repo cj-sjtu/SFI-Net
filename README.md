@@ -7,7 +7,7 @@ This is the Pytorch/PytorchLightning implementation of the paper:
 ## Results
 |    Method     |  Dataset  |  DSC   |  OA   |  mIoU |
 |:-------------:|:---------:|:-----:|:-----:|------:|
-|  SFI-Net   |   ISIC2018   |   93.63   |   94.95   | 88.32 |
+|  SFI-Net   |   ISIC2017   |   93.63   |   94.95   | 88.32 |
 |  SFI-Net   |   ISIC2018   |   93.47   |   95.09   | 87.92 |
 |  SFI-Net   |   PH2        |   96.59   | 97.01     | 93.42 |
 
